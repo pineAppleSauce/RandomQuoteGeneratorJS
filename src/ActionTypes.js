@@ -1,0 +1,3 @@
+export const CHANGEAUTHOR = "CHANGEAUTHOR";
+export const CHANGEQUOTE = "CHANGEQUOTE";
+export const CHANGECOLOR = "CHANGECOLOR";
